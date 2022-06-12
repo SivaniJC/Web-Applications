@@ -1,0 +1,45 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(105, 255, 250);
+    text-align: center;
+}
+
+#container {
+    margin: 20px auto;
+}
+
+#calculator {
+    width: 350px;
+    height: 500px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#result {
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}
+
+input {
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+input:hover[type="button"] {
+    background-color: rgb(197, 197, 197);
+}
+
+th,
+td {
+    border: 1px solid rgb(255, 255, 255);
+}
