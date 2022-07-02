@@ -1,0 +1,32 @@
+<?xml-stylesheet href="style.css"?>
+<html>
+    <head>
+        <h1>Students Details</h1>
+    </head>
+    <students>
+        <student>
+            <usn>USN:1GA19CS148</usn>
+            <name>Name: Sivani JC</name>
+            <college>College: Global Academy of Technology</college>
+            <branch>Branch: Computer Science Engineering</branch>
+            <yoj>Year: 2019</yoj>
+            <email>E-mail: sivanijc@gmail.com</email>
+        </student>
+        <student>
+            <usn>USN:1GA19CS156</usn>
+            <name>Name: Sthuthi B</name>
+            <college>College: Global Academy of Technology</college>
+            <branch>Branch: Computer Science Engineering</branch>
+            <yoj>Year: 2019</yoj>
+            <email>E-mail: sthuthib@gmail.com</email>
+        </student>
+        <student>
+            <usn>USN:1GA19CS194</usn>
+            <name>Name: Sathyalakshmi S</name>
+            <college>College: Global Academy of Technology</college>
+            <branch>Branch: Computer Science Engineering</branch>
+            <yoj>Year: 2019</yoj>
+            <email>E-mail: sathya@gmail.com</email>
+        </student>
+    </students>
+</html>

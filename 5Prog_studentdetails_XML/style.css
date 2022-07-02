@@ -1,0 +1,56 @@
+h1 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+student {
+    display: block;
+    border-style: groove;
+    margin: 10px 10px 10px 10px;
+    padding: 20px;
+    color: Navy;
+}
+
+usn {
+    display: block;
+    margin-left: 10px;
+    font-size: 14pt;
+    color: Red;
+}
+
+name {
+    display: block;
+    margin-left: 20px;
+    font-size: 14pt;
+    color: Blue;
+}
+
+college {
+    display: block;
+    margin-left: 20px;
+    font-size: 12pt;
+    color: Maroon;
+}
+
+branch {
+    display: block;
+    margin-left: 20px;
+    font-size: 12pt;
+    color: Purple;
+}
+
+yoj {
+    display: block;
+    margin-left: 20px;
+    font-size: 12pt;
+    color: Green;
+}
+
+email {
+    display: block;
+    margin-left: 20px;
+    font-size: 12pt;
+    color: Blue;
+}
